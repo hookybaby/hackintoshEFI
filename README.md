@@ -14,11 +14,11 @@
 **Motherboard BIOS version:F9**
 
 **BIOS config:**
-**1.Vt-d: disabled**
-**2.windows8/10 features:other os**
-**3.CSM suport:disabled**
-**4.XHCI hand-off:Enabled**
-**5.About 4G Decoding:Enabled**
-**6.Network stack configuration->Network stack：Disabled**
-**7.Internal Graphics:Enabled**
-**8.secure Boot:Disabled**
+1.Vt-d: disabled
+2.windows8/10 features:other os
+3.CSM suport:disabled
+4.XHCI hand-off:Enabled
+5.About 4G Decoding:Enabled
+6.Network stack configuration->Network stack：Disabled
+7.Internal Graphics:Enabled
+8.secure Boot:Disabled
