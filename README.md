@@ -4,8 +4,8 @@
 **#other hardwares**<br/>
 **1.hard disk: samsung 970 pro 512G**<br/>
 **2.RAM:Kingston Fury DDR4 16G*2 3600MHz**<br/>
-**3.case:Anter P101**<br/>
-**4.power:antec HCG750**<br/>
+**3.case:Antec P101**<br/>
+**4.power:Antec HCG750**<br/>
 **5.cooler :USCORSAIR H150I RGB PRO XT**<br/>
 
 
